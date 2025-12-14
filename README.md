@@ -68,7 +68,7 @@ pip install -r requirements.txt
 Execute the main script:
 
 ```bash
-python churn4.py
+python CustomerChurn.py
 ```
 
 This will:
